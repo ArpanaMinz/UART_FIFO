@@ -6,8 +6,8 @@ UART transmitter. The received data is sequentially loaded into a synchronous FI
 subsequent processing. This setup enables robust data acquisition from a standard PC terminal to an FPGA platform.
 
 # Insights
-Tool used: Xilinx Vivado
-Board Used: Basys 3
+Tool used: Xilinx Vivado  
+Board Used: Basys 3  
 Baud rate: 9600
 
 # UART
