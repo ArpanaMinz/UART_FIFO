@@ -7,7 +7,7 @@ subsequent processing. This setup enables robust data acquisition from a standar
 
 # Insights
 Tool used: Xilinx Vivado
-Board Used: Basys 3 
+Board Used: Basys 3
 Baud rate: 9600
 
 # UART
